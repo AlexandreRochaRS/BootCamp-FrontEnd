@@ -1,0 +1,31 @@
+body{
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: #27AE60;
+}
+.quem-somos{
+    background-color: #7FB3D5;
+}
+.parceiros{
+    background: #884EA0 ;
+}
+.bootstrap{
+    background: #a07f4e ;
+}
+
+.margin{
+
+    padding-top: 15px;
+    padding-bottom: 50px;
+}
+h3 {
+    color: white;
+}
+.bg-footer{
+    background: black;
+    color: white;
+    padding: 20px;
+}
